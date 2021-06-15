@@ -1,6 +1,6 @@
 
 import React from "react";
-const Projects = () => {
+const Works = () => {
   return <div className="projects-wrapper">PROJECTS</div>;
 };
-export default Projects;
+export default Works;

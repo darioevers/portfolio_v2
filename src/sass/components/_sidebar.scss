@@ -18,13 +18,21 @@
     }
 }
 .sidebar_mid {
-    height: 60vh;
+    height: 50vh;
     color: white;
+}
+
+.navigation {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
 }
 
 .sidebar_bot {
     height: 10vh;
     padding-top: 2.4em;
     text-align: center;
-    color: white;
+    color: rgb(165, 165, 165);
+    font-weight: 100;
 }

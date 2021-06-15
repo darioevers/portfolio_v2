@@ -10,7 +10,7 @@ const Sidebar = () => {
         </div>
         <div class="sidebar_mid">
         <nav>
-      <ul className="navigation">
+      <ul class="navigation">
         <li>
           <Link to="/">Home</Link>
         </li>
@@ -18,8 +18,15 @@ const Sidebar = () => {
           <Link to="/about">About</Link>
         </li>
         <li>
-          <Link to="/projects">Projects</Link>
+          <Link to="/services">Services</Link>
         </li>
+        <li>
+          <Link to="/experience">Experience</Link>
+        </li>
+        <li>
+          <Link to="/works">Works</Link>
+        </li>
+
         <li>
           <Link to="/contact">Contact</Link>
         </li>
