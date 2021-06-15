@@ -8,10 +8,15 @@ body {
 }
 
 .main {
-    display: flex;
     margin: 0 auto;
-    border: red 1px solid;
-    width: 100vw;
-    height: 100vh;
+    width: 80vw;
+    height: 80vh;
+    margin-top: 10vh;
+}
+
+.main_content {
+    margin: 0 auto;
+    border: white 1px solid;
+    height: 100%;
 }
 

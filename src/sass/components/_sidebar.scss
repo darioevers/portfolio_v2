@@ -1,7 +1,7 @@
 .sidebar_box {
     border-right: rgb(70, 70, 70) 1px solid;
     height: 100vh;
-    width: 20vw;
+    width: 100px;
     left: 0;
 }
 
@@ -22,11 +22,16 @@
     color: white;
 }
 
+.fas {
+    color: rgb(175, 175, 175);
+    margin-bottom: 50px;
+}
+
 .navigation {
     list-style: none;
     text-decoration: none;
     color: white;
-    font-size: 2em;
+    font-size: 1.3em;
 }
 
 .sidebar_bot {
