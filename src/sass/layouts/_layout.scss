@@ -1,0 +1,17 @@
+body {
+    margin: 0 auto;
+}
+
+.root {
+    display: flex;
+    background-color: $background-color;
+}
+
+.main {
+    display: flex;
+    margin: 0 auto;
+    border: red 1px solid;
+    width: 100vw;
+    height: 100vh;
+}
+

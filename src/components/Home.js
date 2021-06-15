@@ -1,9 +1,15 @@
 import React from "react";
 const Home = () => {
   return (
+    <div class="mains">
+    <div class="main-box">
     <div className="home-wrapper">
-      <header className="hero">HOME</header>
-      <div>TEST TEST TEST</div>
+      <div>
+        <h1>TEST TEST TEST</h1>
+        <p>Hallo test.</p>
+        </div>
+    </div>
+    </div>
     </div>
   );
 };
