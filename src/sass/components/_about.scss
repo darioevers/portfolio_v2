@@ -1,0 +1,102 @@
+// CONTACT STYLES
+
+// MAIN FRAME
+
+.about_content {
+    margin: 0 auto;
+    width: 900px;
+    // height: 20px;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+// INNER CONTENT FRAME
+
+.about_content_top {
+    // HEADER/TITLE FRAME
+    width: 900px;
+    height: 16vh;
+    text-align: left;
+}
+
+.about_content_mid_l {
+    // LEFT SIDE CONTENT FRAME
+    width: 250px;
+    height: 310px;
+    padding-top: 40px;
+    text-align: center;
+
+}
+
+.about_content_mid_r {
+    // DESCRIPTION OUTER BOX
+    width: 645px;
+    height: 350px;
+}
+
+.about_content_mid_r_inner {
+        // DESCRIPTION INNER BOX
+        text-align: left;
+        font-size: 1.2em;
+        padding: 20px;
+        justify-content: space-evenly;
+        background-color: #231f44;
+        border-radius: 20px;
+}
+
+.about_content_bot {
+    // BOTTOM BOX
+    width: 900px;
+    height: 150px;
+}
+
+// FORM
+// MORE FORM & BUTTON IS IN ABSTRACTS FOLDER
+
+.input_button {
+    background-color: $highlight-color-red;
+    color: white;
+    font-size: 1.1rem;
+    height: 55px;
+    border: none;
+    border-radius: 30px;
+    width: 150px;
+    transition-duration: 0.8s;
+}
+
+.input_button:hover {
+    background-color: #f51e37;
+    transition-duration: 0.8s;
+    transform: scale(1.1);
+}
+
+.input_name {
+    width: 280px;
+    margin-right: 10px;
+}
+
+.input_email {
+    width: 280px;
+    margin-left: 10px;
+}
+
+.input_text {
+    width: 600px;
+}
+
+.input_textarea {
+    min-width: 600px;
+    max-width: 600px;
+    min-height: 100px;
+    height: 150px;
+    max-height: 250px;
+    border: none;
+    border-radius: 29px;
+    margin-bottom: 20px;
+    padding: 20px 0px 0px 20px;
+    font-size: 1.1em;
+    font-weight: 100;
+
+}
