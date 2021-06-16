@@ -38,7 +38,7 @@ const Sidebar = () => {
     </nav>
         </div>
         <div class="sidebar_bot">
-            <h5>Copyright 2021</h5>
+            <h6>darioevers</h6>
         </div>
     </div>;
     </React.Fragment>

@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-// importing all components
+// COMPONENT IMPORT
 import Home from "./components/Home";
 import Sidebar from "./components/Sidebar";
 import About from "./components/About";
@@ -10,8 +10,7 @@ import Experience from "./components/Experience";
 import Works from "./components/Works";
 import Contact from "./components/Contact";
 
-
-
+// APP FUNCTION / ROUTER
 function App() {
   return (
     <Router>

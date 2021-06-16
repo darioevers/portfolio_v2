@@ -1,11 +1,37 @@
 .home_content {
     margin: 0 auto;
-    border: white 1px solid;
     width: 60%;
     // height: 20px;
     text-align: center;
     color: white;
 }
+
+.hctop {
+    padding-top: 20vh;
+}
+
+// AVATAR
+.avatar{
+    height: 100px;
+}
+
+// SOCIAL ICONS
+
+.fa-social {
+    color: white;
+    font-size: 1.8em;
+    margin: 20px 10px 30px;
+    transition-duration: 0.3s;
+}
+
+.fa-social:hover {
+    // SIDENAV ICONS HOVER
+    color: $highlight-color-yellow;
+    transition-duration: 0.3s;
+    transform: scale(1.2);
+}
+
+// BUTTON
 
 .hireme_button {
     background-color: $highlight-color-red;
@@ -15,5 +41,4 @@
     font-size: 1.3rem;
     border-radius: 22px;
     border: none;
-    @include font_a;
 }

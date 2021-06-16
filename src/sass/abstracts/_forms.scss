@@ -1,0 +1,18 @@
+input:focus {
+    outline-style: none;
+}
+
+textarea:focus {
+    outline-style: none;
+}
+
+input {
+    // SETTINGS BELOW FOR CONTACT FORM
+    height: 65px;
+    border: none;
+    border-radius: 29px;
+    margin-bottom: 20px;
+    padding: 0px 0px 0px 20px;
+    font-size: 1.1em;
+    font-weight: 100;
+}

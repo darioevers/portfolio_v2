@@ -5,3 +5,28 @@ $background-color: #363353;
 $highlight-color-red: #FF4B60;
 $highlight-color-yellow: #FFD15C;
 $highlight-color-blue: #6C6CE4;
+
+// LINKS
+/* unvisited link */
+a:link {
+    color: $highlight-color-red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: $highlight-color-red;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: $highlight-color-red;
+  }
+  
+  /* selected link */
+  a:active {
+    color: $highlight-color-red;
+  }
+
+  a {
+      text-decoration: none;
+  }

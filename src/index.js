@@ -1,8 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import "./components/icons/icons";
-import "./components/fonts/fonts";
 import "./sass/main.scss";
 
 import App from "./App";

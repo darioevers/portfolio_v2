@@ -1,3 +1,7 @@
+// SIDEBAR STYLE
+
+// MAIN FRAME
+
 .sidebar_box {
     border-right: rgb(70, 70, 70) 1px solid;
     height: 100vh;
@@ -5,7 +9,10 @@
     left: 0;
 }
 
+// INNER FRAMES
+
 .sidebar_top {
+    // LOGO FRAME
     height: 20vh;
     text-align: center;
     justify-content: center;
@@ -18,26 +25,40 @@
     }
 }
 .sidebar_mid {
+    // MENU FRAME
     height: 50vh;
+    width: 100px;
     color: white;
-}
-
-.fas {
-    color: rgb(175, 175, 175);
-    margin-bottom: 50px;
-}
-
-.navigation {
-    list-style: none;
-    text-decoration: none;
-    color: white;
-    font-size: 1.3em;
+    position: absolute;
+    left: 0;
+    .fas {
+        // SIDENAV ICONS
+        color: rgb(175, 175, 175);
+        margin-bottom: 2.2em;
+        transition-duration: 0.3s;
+    }
+    .fas:hover {
+        // SIDENAV ICONS HOVER
+        color: $highlight-color-yellow;
+        transition-duration: 0.3s;
+        transform: scale(1.2);
+    }
+    .navigation {
+        list-style: none;
+        text-decoration: none;
+        color: white;
+        font-size: 1.4em;
+    }
 }
 
 .sidebar_bot {
+    // BOTTOM CONTENT AREA
     height: 10vh;
+    width: 100px;
     padding-top: 2.4em;
     text-align: center;
     color: rgb(165, 165, 165);
     font-weight: 100;
+    bottom: 0;
+    position: absolute;
 }
