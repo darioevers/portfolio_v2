@@ -1,0 +1,70 @@
+// CONTACT STYLES
+
+// MAIN FRAME
+
+.services_content {
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+// INNER CONTENT FRAME
+
+.services_content_top {
+    // HEADER/TITLE FRAME
+    width: 1000px;
+    height: 16vh;
+    text-align: left;
+}
+
+.services_content_mid_l {
+    // LEFT SIDE CONTENT FRAME
+    width: 315px;
+    height: 310px;
+    text-align: center;
+
+}
+
+.leftbox {
+    margin-right: 25px;
+    background-color: $highlight-color-blue;
+    border-radius: 20px;
+}
+
+.services_content_mid_m {
+    // MIDDLE SIDE CONTENT FRAME
+    width: 315px;
+    height: 310px;
+    text-align: center;
+
+}
+
+.middlebox {
+    background-color: $highlight-color-yellow;
+    border-radius: 20px;
+}
+
+.services_content_mid_r {
+    // DESCRIPTION OUTER BOX
+    width: 315px;
+    height: 310px;
+    text-align: center;
+}
+
+.rightbox {
+    margin-left: 24px;
+    background-color: $highlight-color-red;
+    border-radius: 20px;
+}
+
+
+.services_content_bot {
+    // BOTTOM BOX
+    width: 1000px;
+    height: 150px;
+    text-align: center;
+    margin-top: 70px;
+}
