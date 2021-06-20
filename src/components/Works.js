@@ -3,15 +3,15 @@ const Works = () => {
   return (
     <div class="main">
     <div class="main_content">
-    <div class="about_content">
-      <div class="about_content_top">
+    <div class="works_content">
+      <div class="works_content_top">
         <h1>Works</h1>
       </div>
-      <div class="about_content_mid_l">
+      <div class="works_content_mid_l">
       </div>
-      <div class="about_content_mid_r">
+      <div class="works_content_mid_r">
       </div>
-      <div class="about_content bot"></div>
+      <div class="works_content bot"></div>
     </div>
     </div>
     </div>

@@ -1,0 +1,46 @@
+// CONTACT STYLES
+
+// MAIN FRAME
+
+.works_content {
+    margin: 0 auto;
+    width: 1000px;
+    // height: 20px;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+// INNER CONTENT FRAME
+
+.works_content_top {
+    // HEADER/TITLE FRAME
+    width: 1000px;
+    height: 16vh;
+    text-align: left;
+}
+
+.works_content_mid_l {
+    // LEFT SIDE CONTENT FRAME
+    width: 650px;
+    height: 310px;
+    padding-top: 40px;
+    text-align: center;
+    border: red 1px solid;
+
+}
+
+.works_content_mid_r {
+    // DESCRIPTION OUTER BOX
+    width: 345px;
+    height: 350px;
+    border: red 1px solid;
+}
+
+.works_content_bot {
+    // BOTTOM BOX
+    width: 1000px;
+    height: 150px;
+}
+

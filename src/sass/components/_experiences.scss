@@ -1,0 +1,117 @@
+// CONTACT STYLES
+
+// MAIN FRAME
+
+.experiences_content {
+    margin: 0 auto;
+    width: 1000px;
+    // height: 20px;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+// INNER CONTENT FRAME
+
+.experiences_content_top {
+    // HEADER/TITLE FRAME
+    width: 1000px;
+    height: 16vh;
+    text-align: left;
+}
+
+.experiences_content_mid_l {
+    // LEFT SIDE CONTENT FRAME
+    width: 650px;
+    height: 310px;
+    padding-top: 40px;
+    text-align: center;
+    border: red 1px solid;
+
+}
+
+.experiences_content_mid_r {
+    // DESCRIPTION OUTER BOX
+    width: 345px;
+    height: 350px;
+    border: red 1px solid;
+    .experiences_content_mid_r_top{
+        background-color: red;
+        height: 70%
+    }
+    .experiences_content_mid_r_bot{
+        height: 30%;
+    }
+}
+
+.experiences_content_bot {
+    // BOTTOM BOX
+    width: 1000px;
+    height: 150px;
+    border: red 1px solid;
+}
+
+// GRID
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    gap: 0px 0px;
+    grid-template-areas:
+      ". . . ."
+      ". . . ."
+      ". . . ."
+      ". . . .";
+  }
+  
+  .grid-content {
+    height: 166px;
+    width: 107px;
+    padding: 30px 20px 10px;
+    margin: 0 auto;
+    text-align: center;
+    transition: 0.3s;
+    /* border: red 1px solid; */
+  }
+  
+  .grid-content:hover {
+    background-color: rgb(63, 63, 63);
+    transition: 0.3s;
+  }
+  
+  .grid-content img {
+    height: 65px;
+  }
+  
+  .grid-container_projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 0px 0px;
+    grid-template-areas:
+      ". ."
+      ". .";
+    height: 430px;
+  }
+  
+  .grid-content_projects {
+    padding: 20px 20px 30px;
+    margin: 0 auto;
+    text-align: center;
+    transition: 0.3s;
+    width: 89%;
+    height: 200px;
+    transition: 0.8s;
+    cursor: pointer;
+  }
+  
+  .grid-content_projects:hover {
+    background-color: rgb(63, 63, 63);
+    transition: 0.3s;
+  }
+  
+  .grid-content_projects img {
+    height: 150px;
+  }

@@ -18,7 +18,7 @@ const Services = () => {
       </div>
       <div class="services_content_mid_m middlebox">
       <img src={webdevimg} class="avatar"></img>
-        <h3>UI/UX DESIGN</h3>
+        <h3>Web Development</h3>
         <p>Lorem3</p>
       </div>
       <div class="services_content_mid_r rightbox">
