@@ -11,7 +11,7 @@
     flex-wrap: wrap;
 }
 
-// INNER CONTENT FRAME
+// INNER CONTENT FRAME 
 
 .services_content_top {
     // HEADER/TITLE FRAME
@@ -60,6 +60,25 @@
     border-radius: 20px;
 }
 
+// SERVICE IMAGES
+
+.serviceimg {
+    margin-top: 30px;
+    height: 100px;
+}
+
+
+// SERVICE TEXT
+
+.servicetext {
+    margin: 0 30px;
+    color: white;
+    text-shadow: gray 0px 0px 10px;
+}
+
+.serviceheading {
+    text-shadow: gray 0px 0px 10px;
+}
 
 .services_content_bot {
     // BOTTOM BOX

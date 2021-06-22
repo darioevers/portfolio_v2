@@ -12,7 +12,7 @@ const Home = () => {
       <h1>Dario Evers</h1>
     </div>
     <div class="home_content">
-      <p>I'm a Web Developer</p>
+      <p>I'm a Web Developer 👋</p>
     </div>
     <div class="home_content">
       <a href="https://linkedin.com/in/dario-n-evers/" target="_blank"><i class="fab fa-linkedin-in fa-social"></i></a>

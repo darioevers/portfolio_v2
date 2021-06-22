@@ -16,9 +16,8 @@ const About = () => {
         <p>Hi, I'm Dario. Nice to e-meet you.<br></br>I have a demonstrated history of working in the financial & consumer electronics industry. Previously, I worked as VP Operations, as well as Global Head of Support & member of the core-management team for THE NAGA GROUP AG and affiliated companies.</p>
         </div>
       </div>
-      <div class="about_content_bot">
-        test
-      </div>
+      {/* <div class="about_content_bot">
+      </div> */}
     </div>
     </div>
     </div>

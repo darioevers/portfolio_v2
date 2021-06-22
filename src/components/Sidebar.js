@@ -25,9 +25,9 @@ const Sidebar = () => {
         <li>
           <Link to="/experience"><i class="fas fa-meteor"></i></Link>
         </li>
-        <li>
+        {/* <li>
           <Link to="/works"><i class="fas fa-layer-group"></i></Link>
-        </li>
+        </li> */}
 
         <li>
           <Link to="/contact"><i class="fas fa-comments"></i></Link>
