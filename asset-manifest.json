@@ -1,21 +1,40 @@
 {
   "files": {
-    "main.css": "/portfolio_v2/static/css/main.3522fff8.chunk.css",
-    "main.js": "/portfolio_v2/static/js/main.04d91b6a.chunk.js",
-    "main.js.map": "/portfolio_v2/static/js/main.04d91b6a.chunk.js.map",
+    "main.css": "/portfolio_v2/static/css/main.c20624d1.chunk.css",
+    "main.js": "/portfolio_v2/static/js/main.2011dfb8.chunk.js",
+    "main.js.map": "/portfolio_v2/static/js/main.2011dfb8.chunk.js.map",
     "runtime-main.js": "/portfolio_v2/static/js/runtime-main.0ea0f1d3.js",
     "runtime-main.js.map": "/portfolio_v2/static/js/runtime-main.0ea0f1d3.js.map",
-    "static/js/2.462d8591.chunk.js": "/portfolio_v2/static/js/2.462d8591.chunk.js",
-    "static/js/2.462d8591.chunk.js.map": "/portfolio_v2/static/js/2.462d8591.chunk.js.map",
+    "static/js/2.42b2da78.chunk.js": "/portfolio_v2/static/js/2.42b2da78.chunk.js",
+    "static/js/2.42b2da78.chunk.js.map": "/portfolio_v2/static/js/2.42b2da78.chunk.js.map",
     "index.html": "/portfolio_v2/index.html",
-    "static/css/main.3522fff8.chunk.css.map": "/portfolio_v2/static/css/main.3522fff8.chunk.css.map",
-    "static/js/2.462d8591.chunk.js.LICENSE.txt": "/portfolio_v2/static/js/2.462d8591.chunk.js.LICENSE.txt",
-    "static/media/avatar.0211d946.png": "/portfolio_v2/static/media/avatar.0211d946.png"
+    "static/css/main.c20624d1.chunk.css.map": "/portfolio_v2/static/css/main.c20624d1.chunk.css.map",
+    "static/js/2.42b2da78.chunk.js.LICENSE.txt": "/portfolio_v2/static/js/2.42b2da78.chunk.js.LICENSE.txt",
+    "static/media/adobe-illustrator.38603303.svg": "/portfolio_v2/static/media/adobe-illustrator.38603303.svg",
+    "static/media/apple.e1122bc2.png": "/portfolio_v2/static/media/apple.e1122bc2.png",
+    "static/media/avatar.0211d946.png": "/portfolio_v2/static/media/avatar.0211d946.png",
+    "static/media/customerio.4b8560d8.png": "/portfolio_v2/static/media/customerio.4b8560d8.png",
+    "static/media/dominos.cadf7565.png": "/portfolio_v2/static/media/dominos.cadf7565.png",
+    "static/media/finrocks-black-logo.f796e525.png": "/portfolio_v2/static/media/finrocks-black-logo.f796e525.png",
+    "static/media/hanseaticbrokerhouse.6baa63d4.png": "/portfolio_v2/static/media/hanseaticbrokerhouse.6baa63d4.png",
+    "static/media/htmlcssjs.3a7adc2d.png": "/portfolio_v2/static/media/htmlcssjs.3a7adc2d.png",
+    "static/media/indesign.b3be7071.svg": "/portfolio_v2/static/media/indesign.b3be7071.svg",
+    "static/media/invision.fee52b5b.svg": "/portfolio_v2/static/media/invision.fee52b5b.svg",
+    "static/media/klickown.47d322d7.png": "/portfolio_v2/static/media/klickown.47d322d7.png",
+    "static/media/nagacoin.a64ee9cd.png": "/portfolio_v2/static/media/nagacoin.a64ee9cd.png",
+    "static/media/onlinemarketing.f9dbdadb.svg": "/portfolio_v2/static/media/onlinemarketing.f9dbdadb.svg",
+    "static/media/photoshop.3337ee22.svg": "/portfolio_v2/static/media/photoshop.3337ee22.svg",
+    "static/media/poeditor.24db31cd.png": "/portfolio_v2/static/media/poeditor.24db31cd.png",
+    "static/media/postbank.f42f38eb.png": "/portfolio_v2/static/media/postbank.f42f38eb.png",
+    "static/media/uiux.78d74b5d.svg": "/portfolio_v2/static/media/uiux.78d74b5d.svg",
+    "static/media/webdev.274e2422.svg": "/portfolio_v2/static/media/webdev.274e2422.svg",
+    "static/media/xerox.d5e3419b.png": "/portfolio_v2/static/media/xerox.d5e3419b.png",
+    "static/media/zendesk.db515221.svg": "/portfolio_v2/static/media/zendesk.db515221.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0ea0f1d3.js",
-    "static/js/2.462d8591.chunk.js",
-    "static/css/main.3522fff8.chunk.css",
-    "static/js/main.04d91b6a.chunk.js"
+    "static/js/2.42b2da78.chunk.js",
+    "static/css/main.c20624d1.chunk.css",
+    "static/js/main.2011dfb8.chunk.js"
   ]
 }
